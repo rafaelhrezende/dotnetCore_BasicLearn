@@ -1,0 +1,11 @@
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.deps.json
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.runtimeconfig.json
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.runtimeconfig.dev.json
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.dll
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.csprojResolveAssemblyReference.cache
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.csproj.CoreCompileInputs.cache
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.AssemblyInfoInputs.cache
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.AssemblyInfo.cs
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.pdb
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.dll
+K:\Sync\git\local\dotnetcore\authentication_JWT\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.pdb
